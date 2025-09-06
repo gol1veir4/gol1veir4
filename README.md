@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**gol1veir4/gol1veir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou o Gui 👋
 
-Here are some ideas to get you started:
+**Analista de Dados** evoluindo para **Ciência de Dados**.  
+Aqui você encontra meus projetos de ML, EDA e dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Projetos-destaque
+- `projeto-01` — previsão de vendas (regressão)
+- `projeto-02` — churn/inadimplência (classificação)
+- `projeto-03` — segmentação (clustering)
+- `projeto-04` — séries temporais
+- `projeto-05` — NLP
+
+## 🧰 Toolbox
+`Python` `SQL` `Power BI` `scikit-learn` `pandas`
+
+---
+> Entre em contato: adicione seus links (email/LinkedIn/GitHub Pages).
